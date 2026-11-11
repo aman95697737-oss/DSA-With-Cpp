@@ -18,3 +18,11 @@ int main(){
 
     return 0;
 }
+
+/*code aisa likho ki koi bhi pad ke samjh le*/
+ #include<iostream>
+ using namespace std;
+ int main(){
+
+    return 0;
+ }
